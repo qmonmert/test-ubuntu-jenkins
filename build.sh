@@ -1,0 +1,17 @@
+#! /bin/bash
+
+echo ""
+echo "##############################"
+echo "   my awesome build script"
+echo "##############################"
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
